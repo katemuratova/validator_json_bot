@@ -4,7 +4,7 @@ from telebot import TeleBot, types
 import json
 import time
 
-bot = TeleBot('7395468145:AAH_APOj3dMtZVMXcXHLmkiFsNLuy_OZk6U', parse_mode='HTML')  # вставь свой токен из телеграмм бота @BotFather
+bot = TeleBot('TOKEN', parse_mode='HTML')  # вставь свой токен из телеграмм бота @BotFather
 
 
 # /start 
