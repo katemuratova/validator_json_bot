@@ -15,7 +15,7 @@
 
 После отправки JSON c ошибкой:
 
-![image]https://github.com/katemuratova/validator_json_bot/tree/6c43cf544ea53a1e1e464483e928fe070f857511/static
+![image](static/syntax_bot.png)
 
 
 ## 💻 Технологии
