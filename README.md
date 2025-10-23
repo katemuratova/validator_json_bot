@@ -57,7 +57,7 @@ python3 main.py
    
 2. Создать бота, через [@BotFather](https://t.me/BotFather) 
 
-3. Зайти на страницу https://colab.google открыть <Open Colab>
+3. Зайти на страницу https://colab.google 
    ![image](static/2025-10-23_10-37-56.png)
 
 4. Создать блокнот
