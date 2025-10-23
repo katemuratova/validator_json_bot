@@ -45,8 +45,31 @@ source venv/bin/activate
 python3 -m pip install pyTelegramBotAPI
 ```
 
-
 5. Запускаем
+   
 ``` markdown
 python3 main.py
 ```
+
+## ⏬ Установка на сервере Google Colab (30 минут)
+
+1. Скачать проект
+   
+2. Создать бота, через [@BotFather](https://t.me/BotFather) 
+
+3. Зайти на страницу https://colab.google открыть <Open Colab>
+   ![image](static/2025-10-23_10-37-56.png)
+
+4. Создать блокнот
+   ![image](static/2025-10-23_10-40-03.png)
+
+5. Придумать название, вставить код <!pip install pyTelegramBotAPI> для установки библиотеки, запустить
+   ![image](static/2025-10-23_10-44-46.png)
+   
+6. Добавить код
+   ![image](static/2025-10-23_10-46-54.png)
+
+7. Вставить код из файла main.py, не забыв указать свой токен от бота, запустить
+   ![image](static/2025-10-23_10-51-40.png)
+
+8. Запустить своего бота через телеграм, работает⚒️ 
